@@ -11,12 +11,22 @@ title: Master's Thesis
 ---
 
 ## Title
-*(Add your thesis title here)*
+*Development of Automated System for Diagnosing Chronic Venous Insufficiency using Artificial Intelligence-Based Robot*
 
 ---
 
 ## Abstract
-Briefly describe the problem you studied, your approach, and your main results.
+Chronic venous insufficiency (CVI) is a condition in which blood stagnates in the lower extremities due to venous valve dysfunction, resulting in venous hypertension. Lower extremity edema is a common symptom of CVI. The primary diagnostic method for CVI is duplex ultrasound scanning, in which a clinician scans the lower extremities of a patient using an ultrasound probe and observes the images. During this procedure, the patient performs the Valsalva maneuver to intentionally induce blood reflux. CVI is diagnosed when blood reflux lasts more than 0.5 seconds in the superficial veins and more than 1.0 seconds in the deep veins.
+
+However, the Valsalva maneuver cannot ensure consistent examination results, and the duration of blood reflux does not reflect the severity of CVI. These factors make it difficult to select appropriate treatment methods and monitor their effectiveness. Additionally, ultrasound examination results are significantly influenced by the skill and fatigue level of clinicians.
+
+To address these limitations, this dissertation proposes an automated system for diagnosing CVI using an artificial intelligence-based robot. We developed a robotic ultrasound examination system to eliminate variability caused by the condition of clinicians. This system uses a depth camera to recognize contact points on the calves and acquires high-quality ultrasound images through precise force control.
+
+In addition, an AI-based CVI diagnostic algorithm was developed. To avoid the use of qualitative diagnostic criteria, we introduced a new diagnostic index called the 'balance ratio.' The balance ratio is derived from the characteristics of calf vessels, representing the diameter ratio of deep veins and arteries. An artificial neural network is designed and trained to find the deep vein-artery pairs in ultrasound images. CVI is diagnosed by extracting the balance ratios from the detected blood vessel pairs.
+---
+
+## Keywords
+Chronic Venous Insufficiency · Diagnostic Robotics · Artificial Intelligence · Mathematical Modelling · Automation System
 
 ---
 
@@ -37,6 +47,6 @@ Briefly describe the problem you studied, your approach, and your main results.
 ---
 
 ## Resources
-- Thesis PDF (link)
-- Source code (GitHub)
+- [Official thesis page](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=80a57115cf332585ffe0bdc3ef48d419&keyword=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EB%A1%9C%EB%B4%87%20%EA%B8%B0%EB%B0%98%20%EB%A7%8C%EC%84%B1%EC%A0%95%EB%A7%A5%EB%B6%80%EC%A0%84%20%EC%A7%84%EB%8B%A8%20%EC%9E%90%EB%8F%99%ED%99%94%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B0%9C%EB%B0%9C)
+- [Source code](https://github.com/SUN1031/thesis-repo)
 - Demo video (if available)
