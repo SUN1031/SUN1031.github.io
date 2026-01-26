@@ -27,6 +27,11 @@ Describe your node structure, TF tree, and data flow.
 - Stable localization
 - Successful goal reaching
 - Robust obstacle avoidance
+<video controls width="100%">
+  <source src="/assets/videos/navigation/obstacle-avoidance.mp4" type="video/mp4">
+</video>
+
+The robot successfully avoided obstacles while moving.
 
 ## Future Work
 - Dynamic obstacle handling
