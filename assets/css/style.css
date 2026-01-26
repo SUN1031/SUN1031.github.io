@@ -113,19 +113,15 @@ hr {
   border-radius: 8px;
 }
 
-/* ---------- CV button ---------- */
+/* ---------- style the resume page slightly ---------- */
 
-.cv-button {
-  paddings: 6px 14px;
-  border: 1px solid #0b5fff;
-  border-radius: 6px;
+main ul {
+  margin-left: 20px;
+}
+
+main strong {
   font-weight: 600;
-  color: #0b5fff;
 }
 
-.cv-button:hover {
-  background: #0b5fff;
-  color: white;
-  text-decoration: none;
-}
+
 
