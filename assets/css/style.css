@@ -164,16 +164,16 @@ main strong {
   font-size: 18px;
 }
 
-.dark {
+body.dark {
   background: #1e1e1e;
   color: #e8e8e8;
 }
 
-.dark .site-header,
-.dark .site-footer {
+body.dark .site-header,
+body.dark .site-footer {
   border-color: #2f2f2f;
 }
 
-.dark a {
+body.dark a {
   color: #8ab4ff;
 }
