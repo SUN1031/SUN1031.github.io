@@ -6,8 +6,11 @@ title: Resume
 
 # Resume
 
-📄 **Download PDF:**  
-[Download CV (PDF)](/assets/cv/byeongseon-choi-cv.pdf)
+<a href="/assets/cv/byeongseon-choi-cv.pdf"
+   class="download-button"
+   target="_blank">
+  Download CV (PDF)
+</a>
 
 ---
 
