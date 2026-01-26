@@ -7,7 +7,6 @@ body {
   color: #222;
   background: #ffffff;
   line-height: 1.7;
-  transition: background-color 0.25s ease, color 0.25s ease;
 }
 
 a {
@@ -164,22 +163,16 @@ main strong {
   font-size: 18px;
 }
 
-body.dark {
+.dark {
   background: #1e1e1e;
   color: #e8e8e8;
 }
 
-body.dark .site-header,
-body.dark .site-footer {
+.dark .site-header,
+.dark .site-footer {
   border-color: #2f2f2f;
 }
 
-body.dark a {
+.dark a {
   color: #8ab4ff;
-}
-
-body.dark h1,
-body.dark h2,
-body.dark h3 {
-  color: #ffffff;
 }
