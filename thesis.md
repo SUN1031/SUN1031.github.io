@@ -50,7 +50,7 @@ Chronic Venous Insufficiency · Diagnostic Robotics · Artificial Intelligence �
 ## Resources
 <a href="https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=80a57115cf332585ffe0bdc3ef48d419&outLink=K"
    target="_blank">
-  🔗 View thesis on official university site
+  🔗 View thesis on official site
 </a>
 - [Source code](https://github.com/SUN1031/thesis-repo)
 - Demo video (if available)
