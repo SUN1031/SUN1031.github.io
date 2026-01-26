@@ -140,6 +140,17 @@ main strong {
   text-decoration: none;
 }
 
+/* ---------- Styling ---------- */
 
+.project-card {
+  border: 1px solid #e5e5e5;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 24px;
+}
+
+.project-card:hover {
+  border-color: #0b5fff;
+}
 
 
