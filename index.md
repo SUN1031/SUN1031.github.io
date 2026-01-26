@@ -10,10 +10,25 @@ title: Home
 
 ---
 
-Welcome to my personal website.
+Welcome to my website.
 
 I received my Master’s degree in Robotics in August 2024.  
-This website documents my academic work, master’s thesis, and future personal robotics projects.
+This website documents my academic work, master’s thesis, and future personal projects.
+
+---
+
+## Featured Projects
+
+{% for project in site.projects %}
+  {% if project.featured %}
+### [{{ project.title }}]({{ project.url }})
+**{{ project.tags | join: ", " }}**
+
+{{ project.excerpt }}
+
+---
+  {% endif %}
+{% endfor %}
 
 ---
 
