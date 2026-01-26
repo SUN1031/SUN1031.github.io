@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Autonomous Mobile Robot Navigation
-tags: [ROS2, SLAM, Navigation, Gazebo]
+tags: [ROS, SLAM, Navigation, Gazebo]
 ---
 
 ## Overview
@@ -19,7 +19,7 @@ Describe your node structure, TF tree, and data flow.
 ![Robot](/assets/images/navigation/robot-large.jpg)
 
 ## Implementation
-- ROS2 navigation stack
+- ROS navigation stack
 - Mapping and localization
 - Path planning and control
 - Simulation in Gazebo
