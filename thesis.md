@@ -23,6 +23,7 @@ However, the Valsalva maneuver cannot ensure consistent examination results, and
 To address these limitations, this dissertation proposes an automated system for diagnosing CVI using an artificial intelligence-based robot. We developed a robotic ultrasound examination system to eliminate variability caused by the condition of clinicians. This system uses a depth camera to recognize contact points on the calves and acquires high-quality ultrasound images through precise force control.
 
 In addition, an AI-based CVI diagnostic algorithm was developed. To avoid the use of qualitative diagnostic criteria, we introduced a new diagnostic index called the 'balance ratio.' The balance ratio is derived from the characteristics of calf vessels, representing the diameter ratio of deep veins and arteries. An artificial neural network is designed and trained to find the deep vein-artery pairs in ultrasound images. CVI is diagnosed by extracting the balance ratios from the detected blood vessel pairs.
+
 ---
 
 ## Keywords
