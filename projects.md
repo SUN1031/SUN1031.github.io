@@ -5,22 +5,12 @@ title: Projects
 
 # Projects
 
-This page contains selected academic and personal robotics projects.
+Below are selected academic and personal robotics projects.
 
 ---
 
-## Academic Projects
-- Autonomous mobile robot navigation
-- Robot kinematics and control
-- SLAM and localization
-- Manipulation planning
+{% for project in site.projects %}
+### [{{ project.title }}]({{ project.url }})
+**Tags:** {{ project.tags | join: ", " }}
 
----
-
-## Personal Projects
-- (Coming soon)
-- (Coming soon)
-
----
-
-Detailed project pages will be added below as the portfolio grows.
+{% endfor %}
