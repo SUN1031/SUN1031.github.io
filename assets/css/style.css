@@ -177,3 +177,9 @@ body.dark .site-footer {
 body.dark a {
   color: #8ab4ff;
 }
+
+body.dark h1,
+body.dark h2,
+body.dark h3 {
+  color: #ffffff;
+}
