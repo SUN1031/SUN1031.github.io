@@ -15,6 +15,6 @@ My main interests include:
 - Motion planning
 - Robot control
 - Perception and sensor fusion
-- ROS / ROS2-based systems
+- ROS-based systems
 
 I enjoy building robotic systems from low-level control to high-level autonomy and continuously expanding my knowledge through personal projects.
