@@ -21,6 +21,22 @@ Describe your node structure, TF tree, and data flow.
 
 ![Robot](/assets/images/navigation/robot.jpg)
 
+## Kinematics
+
+The differential drive model is:
+
+$$
+\dot{x} = v \cos \theta
+$$
+
+$$
+\dot{y} = v \sin \theta
+$$
+
+$$
+\dot{\theta} = \omega
+$$
+
 ## Implementation
 - ROS navigation stack
 - Mapping and localization
