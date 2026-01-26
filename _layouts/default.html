@@ -42,9 +42,15 @@
     const toggle = document.getElementById("theme-toggle");
     const body = document.body;
 
+    function updateIcon() {
+      toggle.textContent = body.classList.contains("dark") ? "☀️" : "🌙";
+    }
+    
     if (localStorage.getItem("theme") === "dark") {
       body.classList.add("dark");
     }
+
+    updateIcon();
 
     toggle.addEventListener("click", () => {
       body.classList.toggle("dark");
@@ -53,6 +59,7 @@
         "theme",
         body.classList.contains("dark") ? "dark" : "light"
       );
+      updateIcon();
     });
   </script>
   
