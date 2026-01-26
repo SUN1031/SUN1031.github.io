@@ -113,7 +113,7 @@ hr {
   border-radius: 8px;
 }
 
-/* ---------- style the resume page slightly ---------- */
+/* ---------- Style the resume page slightly ---------- */
 
 main ul {
   margin-left: 20px;
@@ -122,6 +122,24 @@ main ul {
 main strong {
   font-weight: 600;
 }
+
+/* ---------- Button-style link inside the Resume page ---------- */
+
+.download-button {
+  display: inline-block;
+  padding: 8px 16px;
+  border: 1px solid #0b5fff;
+  border-radius: 6px;
+  font-weight: 600;
+  color: #0b5fff;
+}
+
+.download-button:hover {
+  background: #0b5fff;
+  color: white;
+  text-decoration: none;
+}
+
 
 
 
