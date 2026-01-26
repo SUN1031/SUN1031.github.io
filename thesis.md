@@ -32,7 +32,7 @@ Chronic Venous Insufficiency · Diagnostic Robotics · Artificial Intelligence �
 ---
 
 ## Methods & Tools
-- ROS / ROS2
+- ROS
 - Simulation (Gazebo)
 - Control algorithms
 - Perception
