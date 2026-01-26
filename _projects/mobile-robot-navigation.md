@@ -3,6 +3,8 @@ layout: project
 title: Autonomous Mobile Robot Navigation
 tags: [ROS, SLAM, Navigation, Gazebo]
 featured: true
+thumbnail: /assets/images/navigation/thumbnail.png
+summary: Autonomous navigation using LiDAR-based SLAM and ROS.
 ---
 
 ## Overview
