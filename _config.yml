@@ -1,0 +1,7 @@
+title: Choi Byeongseon
+description: Robotics Engineer — M.Sc. Robotics (August 2024)
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
