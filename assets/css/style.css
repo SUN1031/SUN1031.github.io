@@ -153,4 +153,26 @@ main strong {
   border-color: #0b5fff;
 }
 
+/* ---------- Dark mode ---------- */
 
+#theme-toggle {
+  margin-left: 16px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.dark {
+  background: #121212;
+  color: #eaeaea;
+}
+
+.dark .site-header,
+.dark .site-footer {
+  border-color: #333;
+}
+
+.dark a {
+  color: #7aa2ff;
+}
