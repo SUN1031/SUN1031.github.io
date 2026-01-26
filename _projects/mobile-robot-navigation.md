@@ -2,6 +2,7 @@
 layout: project
 title: Autonomous Mobile Robot Navigation
 tags: [ROS, SLAM, Navigation, Gazebo]
+featured: true
 ---
 
 ## Overview
