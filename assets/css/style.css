@@ -164,15 +164,15 @@ main strong {
 }
 
 .dark {
-  background: #1e1e1e;
-  color: #e8e8e8;
+  background: #121212;
+  color: #eaeaea;
 }
 
 .dark .site-header,
 .dark .site-footer {
-  border-color: #2f2f2f;
+  border-color: #333;
 }
 
 .dark a {
-  color: #8ab4ff;
+  color: #7aa2ff;
 }
