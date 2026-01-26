@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## Choi Byeongseon
+# Choi Byeongseon
 
 **Robotics Engineer**  
 *M.Sc. in Robotics — August 2024*
@@ -22,7 +22,7 @@ This website documents my academic work, master’s thesis, and future personal 
 - Robot control
 - Motion planning
 - Perception
-- ROS / ROS2
+- ROS
 
 ---
 
