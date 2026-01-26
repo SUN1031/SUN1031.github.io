@@ -19,16 +19,20 @@ This website documents my academic work, master’s thesis, and future personal 
 
 ## Featured Projects
 
+<div class="project-grid">
+
 {% for project in site.projects %}
   {% if project.featured %}
-### [{{ project.title }}]({{ project.url }})
-**{{ project.tags | join: ", " }}**
-
-{{ project.excerpt }}
-
----
+  <a class="project-card" href="{{ project.url }}">
+    <img src="{{ project.thumbnail }}" alt="thumbnail" />
+    <h3>{{ project.title }}</h3>
+    <p>{{ project.summary }}</p>
+    <span>{{ project.tags | join: " · " }}</span>
+  </a>
   {% endif %}
 {% endfor %}
+
+</div>
 
 ---
 
