@@ -142,16 +142,47 @@ main strong {
 
 /* ---------- Styling ---------- */
 
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 24px;
+  margin-top: 24px;
+}
+
 .project-card {
   border: 1px solid #e5e5e5;
-  padding: 20px;
-  border-radius: 10px;
-  margin-bottom: 24px;
+  border-radius: 12px;
+  padding: 16px;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.project-card img {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+
+.project-card h3 {
+  margin: 8px 0 4px;
+}
+
+.project-card p {
+  margin: 0 0 6px;
+  font-size: 14px;
+}
+
+.project-card span {
+  font-size: 13px;
+  color: #777;
 }
 
 .project-card:hover {
-  border-color: #0b5fff;
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
 }
+
 
 /* ---------- Dark mode ---------- */
 
