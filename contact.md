@@ -11,7 +11,9 @@ If you would like to get in touch regarding research, collaboration, or job oppo
 
 ## Email
 
-📧 **chbs6031@gmail.com**
+<a href="mailto:chbs6031@gmail.com">
+  chbs6031@gmail.com
+</a>
 
 ---
 
