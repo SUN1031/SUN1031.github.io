@@ -15,7 +15,7 @@ This project focuses on building an autonomous mobile robot capable of navigatin
 
 ## System Architecture
 Describe your node structure, TF tree, and data flow.
-![Robot](/assets/images/navigation/robot.png)
+![Robot](/assets/images/navigation/robot.jpg)
 
 ## Implementation
 - ROS2 navigation stack
