@@ -3,13 +3,6 @@ layout: default
 title: Home
 ---
 
-# Choi Byeongseon
-
-**Robotics Engineer**  
-*M.Sc. in Robotics — August 2024*
-
----
-
 Welcome to my website.
 
 I received my Master’s degree in Robotics in August 2024.  
