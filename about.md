@@ -5,6 +5,13 @@ title: About
 
 # About Me
 
+# Choi Byeongseon
+
+**Robotics Engineer**  
+*M.Sc. in Robotics — August 2024*
+
+---
+
 I received my Master’s degree in Robotics in August 2024.
 
 During my graduate studies, I worked on robot perception, control, and autonomous systems through coursework, laboratory projects, and my master’s thesis.
