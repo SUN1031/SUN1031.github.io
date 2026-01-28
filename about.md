@@ -5,8 +5,7 @@ title: About
 
 # About Me
 
-# Choi Byeongseon
-
+## Choi Byeongseon
 **Robotics Engineer**  
 *M.Sc. in Robotics — August 2024*
 
