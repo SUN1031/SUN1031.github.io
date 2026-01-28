@@ -22,7 +22,7 @@ This website documents my academic work, master’s thesis, and future personal 
 - Robotic Manipulation
 - Perception
 - Motion Planning and Control
-- Machine Learning
+- Artificial Intelligence
 
 ---
 
