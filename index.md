@@ -17,6 +17,15 @@ This website documents my academic work, master’s thesis, and future personal 
 
 ---
 
+## Interests
+- Mobile robotics
+- Manipulation
+- Perception
+- Motion planning
+- Robot control
+
+---
+
 ## Featured Projects
 
 <div class="project-grid">
@@ -33,15 +42,6 @@ This website documents my academic work, master’s thesis, and future personal 
 {% endfor %}
 
 </div>
-
----
-
-## Interests
-- Mobile robotics
-- Robot control
-- Motion planning
-- Perception
-- ROS
 
 ---
 
