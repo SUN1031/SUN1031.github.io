@@ -20,7 +20,7 @@ This website documents my academic work, master’s thesis, and future personal 
 ## Interests
 - Mobile Robotics
 - Robotic Manipulation
-- Computer Vision and Perception
+- Perception
 - Motion Planning and Control
 - Artificial Intelligence
 
