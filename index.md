@@ -21,7 +21,7 @@ This website documents my academic work, master’s thesis, and future personal 
 - Mobile Robotics
 - Robotic Manipulation
 - Perception
-- Planning and Control
+- Motion Planning and Control
 - Machine Learning
 
 ---
