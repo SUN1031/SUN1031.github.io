@@ -225,8 +225,6 @@ main strong {
   opacity: 0.85;
 }
 
-@media (prefers-color-scheme: dark) {
-  .site-title a {
-    color: #4da3ff;
-  }
+.dark .site-title a {
+  color: #7aa2ff;
 }
