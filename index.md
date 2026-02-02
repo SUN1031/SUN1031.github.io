@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## Welcome
+# Welcome
 
 This website is a space where my projects, studies, and ideas come together. It reflects my journey as a robotics engineer-learning though experimentation, solving problems with curiosity, and turning concepts into real systems.
 
