@@ -24,15 +24,6 @@ This site is a living workshop-an evolving record of what I build and what I con
 
 ---
 
-## Interests
-- Mobile Robotics
-- Robotic Manipulation
-- Perception
-- Motion Planning and Control
-- Artificial Intelligence
-
----
-
 ## Featured Projects
 
 <div class="project-grid">
