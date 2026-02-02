@@ -3,10 +3,24 @@ layout: default
 title: Home
 ---
 
-Welcome to my website.
+## Welcome
 
-I received my Master’s degree in Robotics in August 2024.  
-This website documents my academic work, master’s thesis, and future personal projects.
+This website is a space where my projects, studies, and ideas come together. It reflects my journey as an engineer-learning through experimentation, solving problems with curisotiy, and turning concepts into real systems.
+
+### Why "Bezalel's Craft"?
+
+The name comes from the image of a craftsman who brings designs to life through skill and care. Bezalel was known as a builder who transformed ideas into tangible work, and that spirit resonates with how I approach engineering.
+
+I see technology as a form of craftsmanship: understanding materials, tools, and principles, then shaping them into something meaningful. Each project is an opportunity to learn, refine, and create with intention.
+
+### What You'll Find Here
+
+- Explorations in robotics, control, and intelligent systems
+- Projects developed during my studies and personal research
+- Reflections on problem-solving and design
+- Ongoing experiments and ideas
+
+This site is a living workshop-an evolving record of what I build and what I continue to learn.
 
 ---
 
