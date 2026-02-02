@@ -186,6 +186,21 @@ main strong {
 }
 
 
+/* ---------- Title Font ---------- */
+.site-title a {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  transition: opacity 0.2s ease;
+  color: #000000;
+}
+
+.site-title a:hover {
+  opacity: 0.85;
+}
+
+
 /* ---------- Dark mode ---------- */
 
 #theme-toggle {
@@ -211,20 +226,3 @@ main strong {
 }
 
 
-/* ---------- Title Font ---------- */
-.site-title a {
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 700;
-  letter-spacing: 0.8px;
-  text-transform: uppercase;
-  transition: opacity 0.2s ease;
-  color: #000000;
-}
-
-.site-title a:hover {
-  opacity: 0.85;
-}
-
-.dark .site-title a {
-  color: #7aa2ff;
-}
