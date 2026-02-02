@@ -17,9 +17,9 @@ During my graduate studies, I worked on robot perception, control, and autonomou
 My main interests include:
 
 - Mobile robotics
-- Motion planning
-- Robot control
-- Perception and sensor fusion
-- ROS-based systems
+- Robotic Manipulation
+- Perception
+- Motion Planning and Control
+- Artificial Intelligence
 
 I enjoy building robotic systems from low-level control to high-level autonomy and continuously expanding my knowledge through personal projects.
