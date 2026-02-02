@@ -3,7 +3,7 @@ layout: default
 title: Projects
 ---
 
-# Projects
+## Projects
 
 Below are selected academic and personal robotics projects.
 
