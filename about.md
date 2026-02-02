@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-## About Me
+# About Me
 ### Choi Byeongseon
 **Robotics Engineer**  
 *M.Sc. in Robotics — August 2024*
