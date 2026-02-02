@@ -218,8 +218,15 @@ main strong {
   letter-spacing: 0.8px;
   text-transform: uppercase;
   transition: opacity 0.2s ease;
+  color: #000000;
 }
 
 .site-title a:hover {
   opacity: 0.85;
+}
+
+@media (prefers-color-scheme: dark) {
+  .site-title a {
+    color: #4da3ff;
+  }
 }
