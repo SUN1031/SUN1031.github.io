@@ -9,7 +9,7 @@ This website is a space where my projects, studies, and ideas come together. It 
 
 ### Why "Bezalel's Craft"?
 
-The name comes from the image of a craftsman who brings designs to life through skill and care. Bezalel was known as a builder who transformed ideas into tangible work, and that spirit resonates with how I approach engineering.
+The name of this site is inspired by the Biblical craftsman Bezalel. He was an builder who transformed ideas into tangible work, and that spirit resonates with how I approach engineering.
 
 I see technology as a form of craftsmanship: understanding materials, tools, and principles, then shaping them into something meaningful. Each project is an opportunity to learn, refine, and create with intention.
 
