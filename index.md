@@ -5,11 +5,11 @@ title: Home
 
 ## Welcome
 
-This website is a space where my projects, studies, and ideas come together. It reflects my journey as an engineer-learning through experimentation, solving problems with curisotiy, and turning concepts into real systems.
+This website is a space where my projects, studies, and ideas come together. It reflects my journey as an robotics engineer-learning though experimentation, solving problems with curiosity, and turning concepts into real systems.
 
 ### Why "Bezalel's Craft"?
 
-The name of this site is inspired by the Biblical craftsman Bezalel. He was an builder who transformed ideas into tangible work, and that spirit resonates with how I approach engineering.
+The name of this site is inspired by the Biblical craftsman Bezalel. He was a builder who transformed ideas into tangible work, and that spirit resonates with how I approach engineering.
 
 I see technology as a form of craftsmanship: understanding materials, tools, and principles, then shaping them into something meaningful. Each project is an opportunity to learn, refine, and create with intention.
 
