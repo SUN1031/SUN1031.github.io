@@ -100,14 +100,18 @@ On mobile devices, the videos may need to be viewed individually.*
 
   <div>
     <strong>Conveyor Belt</strong>
-    <video id="colorConv" controls width="100%">
+    <video id="colorConv" controls width="100%"
+      preload="metadata"
+      playsinline>
       <source src="/assets/videos/raspberrypi/color_conveyor.mp4" type="video/mp4">
     </video>
   </div>
 
   <div>
     <strong>GUI Output</strong>
-    <video id="colorGui" controls width="100%">
+    <video id="colorGui" controls width="100%"
+      preload="metadata"
+      playsinline>
       <source src="/assets/videos/raspberrypi/color_gui.mp4" type="video/mp4">
     </video>
   </div>
@@ -126,14 +130,18 @@ On mobile devices, the videos may need to be viewed individually.*
 
   <div>
     <strong>Conveyor Belt</strong>
-    <video id="sizeConv" controls width="100%">
+    <video id="sizeConv" controls width="100%"
+      preload="metadata"
+      playsinline>
       <source src="/assets/videos/raspberrypi/size_conveyor.mp4" type="video/mp4">
     </video>
   </div>
 
   <div>
     <strong>GUI Output</strong>
-    <video id="sizeGui" controls width="100%">
+    <video id="sizeGui" controls width="100%"
+      preload="metadata"
+      playsinline>
       <source src="/assets/videos/raspberrypi/size_gui.mp4" type="video/mp4">
     </video>
   </div>
