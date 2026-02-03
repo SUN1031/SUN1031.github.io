@@ -297,3 +297,15 @@ main strong {
   border-color: #8ab4ff;
   color: #8ab4ff;
 }
+
+/* ---------- Video never looks Blank ---------- */
+
+video {
+  background: #000;
+  min-height: 180px;   /* prevent white box */
+  object-fit: cover;
+}
+
+.dark video {
+  background: #111;
+}
