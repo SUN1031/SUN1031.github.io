@@ -112,12 +112,12 @@ hr {
   margin: 20px 0;
   border-radius: 8px;
   
-  background: red;
-  min-height: 180px;
+  background: #333;
+  min-height: 160px;
 }
 
 body.dark .project video {
-  background: red;
+  background: #00aaff;
 }
 
 /* ---------- Style the resume page slightly ---------- */
