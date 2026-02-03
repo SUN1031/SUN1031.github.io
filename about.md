@@ -25,10 +25,11 @@ Jeonbuk National University, *February 2022*
 
 ---
 
-During my graduate studies, I worked on robot perception, control, and autonomous systems through coursework, laboratory projects, and my master’s thesis.
-
 ## 🧠 Research Interests
 
+During my graduate studies, I worked on robot perception, control, and autonomous systems through coursework, laboratory projects, and my master’s thesis.
+
+My main interests include:
 - Mobile robotics
 - Robotic Manipulation
 - Perception
