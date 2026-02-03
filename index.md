@@ -5,23 +5,25 @@ title: Home
 
 # Welcome
 
-This website is a space where my projects, studies, and ideas come together. It reflects my journey as a robotics engineer-learning though experimentation, solving problems with curiosity, and turning concepts into real systems.
+This website is a space where my projects, studies, and ideas come together.  
+It reflects my journey as a robotics engineer—learning through experimentation, solving problems with curiosity, and turning concepts into real systems.
 
-### Why "Bezalel's Craft"?
+### Why “Bezalel’s Craft”?
 
-The name of this website is inspired by the Biblical craftsman Bezalel. He was a builder who transformed ideas into tangible work, and that spirit resonates with how I approach engineering.
+The name of this website is inspired by the Biblical craftsman **Bezalel**.  
+He was a builder who transformed ideas into tangible work, and that spirit resonates with how I approach engineering.
 
-I see technology as a form of craftsmanship: understanding materials, tools, and principles, then shaping them into something meaningful. Each project is an opportunity to learn, refine, and create with intention.
+I see technology as a form of craftsmanship: understanding materials, tools, and principles, then shaping them into something meaningful.  
+Each project is an opportunity to learn, refine, and create with intention.
 
-### What You'll Find Here
+### What You’ll Find Here
 
-- Explorations in robotics, control, and intelligent systems
-- Projects developed during my studies and personal research
-- Reflections on problem-solving and design
+- Explorations in robotics, control, and intelligent systems  
+- Projects developed during my studies and personal research  
+- Reflections on problem-solving and design  
 - Ongoing experiments and ideas
 
-
-This site is a living workshop-an evolving record of what I build and what I continue to learn.
+This site is a living workshop—an evolving record of what I build and what I continue to learn.
 
 ---
 
@@ -45,6 +47,6 @@ This site is a living workshop-an evolving record of what I build and what I con
 ---
 
 ## Links
-- GitHub: https://github.com/SUN1031
-- LinkedIn: (add later)
-- CV: (add later)
+- [GitHub](https://github.com/SUN1031)
+- LinkedIn: coming soon
+- CV: coming soon
