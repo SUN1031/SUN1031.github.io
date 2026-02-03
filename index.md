@@ -3,19 +3,19 @@ layout: default
 title: Home
 ---
 
-# Welcome to Bezalel's Craft
+# Welcome to Bezalel’s Craft
 
-Bezalel's Craft is a story about **engineering**.
+Bezalel’s Craft is a story about **engineering**.
 
-Before it is about any particular technology, it is about a simple human act:
+Before it is about any particular technology, it is about a simple human act:  
 seeing something that does not yet exist and deciding to build it anyway.
 
-Engineering can be understood as a form of craftsmanship.
-It begins with questions, passes through drawings and calculations,
-and finally reaches the stubborn reality of materials and motion.
-Every design is a conversation between idea and world.
+Engineering can be understood as a form of **craftsmanship**.  
+It begins with questions, passes through drawings and calculations,  
+and finally reaches the stubborn reality of materials and motion.  
+Every design becomes a conversation between idea and world.
 
-This website is the record of that conversation—
+This website is the record of that conversation—  
 projects shaped by curiosity, mistakes, and persistence.
 
 ### Why the Name?
@@ -30,9 +30,10 @@ and still trying to create something a little better than before.
 
 Bezalel’s Craft is the space where that attitude lives.
 
+
 ### What You’ll Find Here
 
-- Explorations of how ideas become working systems
+- Explorations of how ideas become working systems  
 - Projects built through study and trial  
 - Reflections on design, failure, and improvement  
 - Ongoing experiments that are still under construction
