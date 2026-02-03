@@ -229,8 +229,8 @@ main strong {
 .about-container {
   display: flex;
   align-items: stretch;       /* make both sides same height */
-  gap: 32px;
-  margin-bottom: 32px;
+  gap: 28;
+  margin-bottom: 24;
 }
 
 .about-text {
