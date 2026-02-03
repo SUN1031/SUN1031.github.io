@@ -77,15 +77,33 @@
   </script>
 
   <script>
-    function playColorPair() {
-      document.getElementById("colorGui").play();
-      document.getElementById("colorConv").play();
+  function togglePair(v1, v2, btn) {
+    if (v1.paused || v2.paused) {
+      v1.play();
+      v2.play();
+      btn.textContent = "⏸ Pause Both";
+    } else {
+      v1.pause();
+      v2.pause();
+      btn.textContent = "▶ Play Both";
     }
-
-    function playSizePair() {
-      document.getElementById("sizeGui").play();
-      document.getElementById("sizeConv").play();
-    }
+  }
+  
+  function toggleColorPair() {
+    togglePair(
+      document.getElementById("colorConv"),
+      document.getElementById("colorGui"),
+      document.getElementById("colorBtn")
+    );
+  }
+  
+  function toggleSizePair() {
+    togglePair(
+      document.getElementById("sizeConv"),
+      document.getElementById("sizeGui"),
+      document.getElementById("sizeBtn")
+    );
+  }
   </script>
   
 </body>
