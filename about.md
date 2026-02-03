@@ -15,9 +15,9 @@ I build a robots and try to teach them how to interact with the world.</p>
 <p>I think of myself as <strong>a man leaning on a raft on the vast ocean</strong>-<br>
 standing on something I built, surrounded by possibilties I can't fully see yet.</p>
 
-I came to robotics because I enjoy watching code cross into the physical world-
-the moment a machine I programmed begins to move, see, and act on its own.
-That moment still feels a little like magic, even after many lines of debugging.
+<p>I came to robotics because I enjoy watching code cross into the physical world-<br>
+the moment a machine I programmed begins to move, see, and act on its own.<br>
+That moment still feels a little like magic, even after many lines of debugging.</p>
 
   </div>
 
@@ -40,7 +40,7 @@ from abstract models to something that can be touched.
 ### Background (the short version)
 
 - **M.Sc. in Robotics**, 2024
-- **B.Sc. in Electronic Engineering**
+- **B.Sc. in Electronic Engineering**, 2022
 - Focus on perception, motion planning, and intelligent systems
 
 For full details, see my [Resume](/resume).
