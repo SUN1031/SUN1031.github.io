@@ -47,7 +47,9 @@ $$
 - Stable localization
 - Successful goal reaching
 - Robust obstacle avoidance
-<video controls width="100%">
+<video controls width="100%"
+  preload="metadata"
+  playsinline>
   <source src="/assets/videos/navigation/obstacle-avoidance.mp4" type="video/mp4">
 </video>
 
