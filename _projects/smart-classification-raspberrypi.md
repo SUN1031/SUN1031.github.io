@@ -3,7 +3,7 @@ layout: project
 title: Smart Brick Classification System with Raspberry Pi
 tags: [Computer Vision, Embedded AI, Raspberry Pi, TFLite, Automation]
 featured: true
-thumbanil: /asset/images/vision/thumbnail.png
+thumbanil: /asset/images/raspberrypi/system-overview.jpg
 summary: Real-time classification and automated sorting of toy bricks by color and size using Raspberry Pi, CNN inference, and servo-actuated conveyor system.
 ---
 
@@ -16,7 +16,7 @@ Because Raspberry Pi does not provide sufficient memory and computational power 
 
 ## Classification Targets
 
-![Toy brick categories](/assets/images/vision/bricks.jpg)
+![Toy brick categories](/assets/images/raspberrypi/bricks.jpg)
 
 The system classifies bricks into **9 categories**, defined by:
 
@@ -29,7 +29,7 @@ Each brick passes under the camera in a top-view configuration while moving on t
 
 ## System Overview
 
-![Smart brick classification system](/assets/images/vision/system-overview.jpg)
+![Smart brick classification system](/asset/images/raspberrypi/system-overview.jpg)
 
 The complete platform consits of:
 - **Conveyor belt** transporting bricks at constant speed
