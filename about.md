@@ -5,7 +5,7 @@ title: About
 
 # About Me
 
-![profile photo](/assets/me.jpg)
+![profile photo](/assets/images/me.jpg)
 
 Hello, I'm **Choi Byeongseon**.
 I build a robots and try to teach them how to interact with the world.
