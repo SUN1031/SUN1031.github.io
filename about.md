@@ -5,7 +5,13 @@ title: About
 
 # About Me
 
-![profile photo](/assets/images/me.jpg)
+<div class="about-container">
+
+  <div class="about-photo">
+    <img src="/assets/images/me.jpg" alt="Choi Byeongseon">
+  </div>
+
+  <div class="about-text">
 
 Hello, I'm **Choi Byeongseon**.
 I build a robots and try to teach them how to interact with the world.
@@ -16,6 +22,9 @@ standing on something I built, surrounded by possibilties I can't fully see yet.
 I came to robotics because I enjoy watching code cross into the physical world-
 the moment a machine I programmed begins to move, see, and act on its own.
 That moment still feels a little like magic, even after many lines of debugging.
+
+  </div>
+</div>
 
 ### What drives me
 
