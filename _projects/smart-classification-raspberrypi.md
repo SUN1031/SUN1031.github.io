@@ -93,14 +93,14 @@ The complete platform consits of:
   <div>
     <strong>Conveyor Belt</strong>
     <video controls width="100%">
-      <source src="/assets/videos/brick/color_conveyor.mp4" type="video/mp4">
+      <source src="/assets/videos/raspberrypi/color_conveyor.mp4" type="video/mp4">
     </video>
   </div>
 
   <div>
     <strong>GUI Output</strong>
     <video controls width="100%">
-      <source src="/assets/videos/brick/color_gui.mp4" type="video/mp4">
+      <source src="/assets/videos/raspberrypi/color_gui.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -111,14 +111,14 @@ The complete platform consits of:
   <div>
     <strong>Conveyor Belt</strong>
     <video controls width="100%">
-      <source src="/assets/videos/brick/size_conveyor.mp4" type="video/mp4">
+      <source src="/assets/videos/raspberrypi/size_conveyor.mp4" type="video/mp4">
     </video>
   </div>
 
   <div>
     <strong>GUI Output</strong>
     <video controls width="100%">
-      <source src="/assets/videos/brick/size_gui.mp4" type="video/mp4">
+      <source src="/assets/videos/raspberrypi/size_gui.mp4" type="video/mp4">
     </video>
   </div>
 </div>
