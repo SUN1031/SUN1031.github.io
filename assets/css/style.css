@@ -225,4 +225,32 @@ main strong {
   color: #7aa2ff;
 }
 
+/* ---------- About ---------- */
+.about-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+  margin-bottom: 20px;
+}
+
+.about-photo img {
+  width: 220px;          /* ← change this to control size */
+  max-width: 100%;
+  border-radius: 8px;    /* optional: rounded corners */
+}
+
+.about-text {
+  flex: 1;
+}
+
+/* Mobile: stack vertically */
+@media (max-width: 768px) {
+  .about-container {
+    flex-direction: column;
+  }
+
+  .about-photo img {
+    width: 160px;
+  }
+}
 
