@@ -3,7 +3,7 @@ layout: project
 title: Smart Brick Classification System with Raspberry Pi
 tags: [Computer Vision, Embedded AI, Raspberry Pi, TFLite, Automation]
 featured: true
-thumbanil: /assets/images/raspberrypi/system-overview.jpg
+thumbanil: /assets/images/raspberrypi/thumbnail.png
 summary: Real-time classification and automated sorting of toy bricks by color and size using Raspberry Pi, CNN inference, and servo-actuated conveyor system.
 ---
 
@@ -107,6 +107,8 @@ Each brick passes under the camera in a top-view configuration while moving on t
 
   <button class="play-both" onClick="playColorPair()">
     ▶ Play Both Videos
+  </button>
+  
 </div>
 
 ---
