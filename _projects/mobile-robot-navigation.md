@@ -49,7 +49,8 @@ $$
 - Robust obstacle avoidance
 <video controls width="100%"
   preload="metadata"
-  playsinline>
+  playsinline
+  muted>
   <source src="/assets/videos/navigation/obstacle-avoidance.mp4" type="video/mp4">
 </video>
 
