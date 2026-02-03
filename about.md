@@ -42,7 +42,7 @@ I enjoy building robotic systems from low-level control to high-level autonomy a
 
 ## 📄 Papers & Publications
 
-- **Determination of Calf Contact Point in Ultrasound Examination for Diagnosis of Chronic Venous Insufficiency*
+- **Determination of Calf Contact Point in Ultrasound Examination for Diagnosis of Chronic Venous Insufficiency**
   *2024 21st International Conference on Ubiquitous Robots (UR)*
   - Developed
 
