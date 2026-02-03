@@ -297,3 +297,26 @@ main strong {
   border-color: #8ab4ff;
   color: #8ab4ff;
 }
+
+/* ---------- RaspberryPi Mobile ---------- */
+.mobile-view-toggle {
+  display: none;
+  margin: 8px 0;
+  gap: 8px;
+}
+
+.mobile-view-toggle button {
+  padding: 6px 10px;
+  border: 1px solid #0b5fff;
+  background: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+/* Only show on mobile */
+@media (max-width: 700px) {
+  .mobile-view-toggle {
+    display: flex;
+  }
+}
+
