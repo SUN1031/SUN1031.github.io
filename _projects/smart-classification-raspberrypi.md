@@ -90,7 +90,7 @@ Each brick passes under the camera in a top-view configuration while moving on t
 ### Color-Based Sorting
 
 <div class="video-stack">
-  
+
   <div class="video-item">
     <strong>GUI Output</strong>
     <video id="colorGui" controls width="100%">
@@ -105,29 +105,29 @@ Each brick passes under the camera in a top-view configuration while moving on t
     </video>
   </div>
 
-  <button class="play-both" onClick="playColorPair()">
+  <button class="play-both" onclick="playColorPair()">
     ▶ Play Both Videos
   </button>
-  
+
 </div>
 
 ---
 
 ### Size-Based Sorting
-  
+
 <div class="video-stack">
 
   <div class="video-item">
     <strong>GUI Output</strong>
     <video id="sizeGui" controls width="100%">
-      <source src="/assets/videos/brick/size_gui.mp4" type="video/mp4">
+      <source src="/assets/videos/raspberrypi/size_gui.mp4" type="video/mp4">
     </video>
   </div>
 
   <div class="video-item">
     <strong>Conveyor Belt</strong>
     <video id="sizeConv" controls width="100%">
-      <source src="/assets/videos/brick/size_conveyor.mp4" type="video/mp4">
+      <source src="/assets/videos/raspberrypi/size_conveyor.mp4" type="video/mp4">
     </video>
   </div>
 
