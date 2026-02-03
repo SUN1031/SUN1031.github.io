@@ -87,13 +87,10 @@ Each brick passes under the camera in a top-view configuration while moving on t
 
 ## Demonstration Videos
 
-*Note: Simultaneous playback is recommended on desktop.  
-On mobile devices, the videos may need to be viewed individually.*
-
 ### Color-Based Sorting
 
 <button class="play-both" onclick="toggleColorPair()" id="colorBtn">
-  ▶ Play Both (PC only)
+  ▶ Play Both
 </button>
 
 <div class="video-row">
@@ -125,7 +122,7 @@ On mobile devices, the videos may need to be viewed individually.*
 ### Size-Based Sorting
 
 <button class="play-both" onclick="toggleSizePair()" id="sizeBtn">
-  ▶ Play Both (PC only)
+  ▶ Play Both
 </button>
 
 <div class="video-row">
