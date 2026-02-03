@@ -5,59 +5,33 @@ title: About
 
 # About Me
 
-### Choi Byeongseon
+![profile photo](/assets/me.jpg)
 
-**Robotics Engineer**  
+Hello, I'm **Choi Byeongseon**.
+I build a robots and try to teach them how to interact with the world.
 
----
+I think of myself as **a man leaning on a raft on the vast ocean**-
+standing on something I built, surrounded by possibilties I can't fully see yet.
 
-## 🎓 Education
+I came to robotics because I enjoy watching code cross into the physical world-
+the moment a machine I programmed begins to move, see, and act on its own.
+That moment still feels a little like magic, even after many lines of debugging.
 
-**M.Sc. in Robotics**
-Jeonbuk National University, *August 2024*
-- Thesis: *Development of Automated System for Diagnosing Chronic Venous Insufficiency using Artificial Intelligence-based Robot*
-- Advisor: Prof. Park Jaebyung
-- Focus: chronic venous insufficiency, diagnostic robotics, artificial intelligence, mathematical modelling, automation system
+### What drives me
 
-**B.Sc. in Electronic Engineering**
-Jeonbuk National University, *February 2022*
-- Relevant coursework: Robotics, Control Systems, Machine Learning
+Among all parts of robotics, **vision** fascinates me the most.
+To give a machine eyes is to give it a relationship with reality-
+light, depth, noise, and uncertainty becoming information instead of obstacles.
 
----
+I enjoy the entire path from idea to movement:
+from algorithms on a screen to motors turning on the floor,
+from abstract models to something that can be touched.
 
-## 🧠 Research Interests
+### Background (the short version)
 
-During my graduate studies, I worked on robot perception, control, and autonomous systems through coursework, laboratory projects, and my master’s thesis.
+- **M.Sc. in Robotics**, 2024
+- **B.Sc. in Electronic Engineering**
+- Focus on perception, motion planning, and intelligent systems
 
-My main interests include:
-- Mobile robotics
-- Robotic Manipulation
-- Perception
-- Motion Planning and Control
-- Artificial Intelligence
-
-I enjoy building robotic systems from low-level control to high-level autonomy and continuously expanding my knowledge through personal projects.
-
----
-
-## 📄 Papers & Publications
-
-- **Determination of Calf Contact Point in Ultrasound Examination for Diagnosis of Chronic Venous Insufficiency**
-  *2024 21st International Conference on Ubiquitous Robots (UR)*
-  - Developed
-
-- **Robotic Diagnostic System for Quantitative Diagnosis of Chronic Venous Insufficiency**
-  *International Conference on Electronics, Information, and Communication (ICEIC) 2024*
-  - Developed
-
-- **Smart Handle: A New Type of Physical User Interface for Guide Robots**
-  *2023 The 20th International Conference on Ubiquitous Robots (UR 2023)
-  - Implement
-
-- **Design of Smart Hospital Guide Robot for Elderly Patients**
-  *The 22nd International Conference on Control, Automation, and Systems (ICCAS 2022)*
-  - Design
-  
-- **Development of Hospital Guide Robot With Stable Mobility and Improved Human-robot Interaction**
-  *Journal of Institute of Control, Robotics and Systems* (2023) 29(11):921-927
-  - Implement
+For full details, see my [Resume](/resume).
+To see what I've built, visit [Projects](/projects).
