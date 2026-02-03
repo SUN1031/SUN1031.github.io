@@ -228,21 +228,29 @@ main strong {
 /* ---------- About ---------- */
 .about-container {
   display: flex;
-  align-items: center;      /* ← KEY: centers text vertically */
-  gap: 28px;
-  margin-bottom: 24px;
-  min-height: 240px;   /* roughly your image height */
+  align-items: stretch;       /* make both sides same height */
+  gap: 32px;
+  margin-bottom: 32px;
 }
 
 .about-text {
   flex: 1;
   display: flex;
   flex-direction: column;
-  justify-content: center;   /* text sits in the middle of image height */
+  justify-content: center;    /* vertical center */
+}
+
+.about-text p {
+  margin: 10px 0;             /* better paragraph rhythm */
+}
+
+.about-photo {
+  display: flex;
+  align-items: center;        /* center image vertically */
 }
 
 .about-photo img {
-  width: 240px;          /* ← change this to control size */
+  width: 220px;          /* ← change this to control size */
   max-width: 100%;
   border-radius: 10px;    /* subtle soft corners */
 }
