@@ -61,6 +61,6 @@ This site is a living workshop—always learning, never finished.
 ---
 
 ## Links
-- [GitHub](https://github.com/SUN1031)
+- <a href="https://github.com/SUN1031" target="_blank" rel="noopener noreferrer">GitHub</a>
 - LinkedIn: coming soon
 - CV: coming soon
