@@ -229,28 +229,32 @@ main strong {
 .about-container {
   display: flex;
   align-items: flex-start;
-  gap: 24px;
-  margin-bottom: 20px;
-}
-
-.about-photo img {
-  width: 220px;          /* ← change this to control size */
-  max-width: 100%;
-  border-radius: 8px;    /* optional: rounded corners */
+  gap: 28px;
+  margin-bottom: 24px;
 }
 
 .about-text {
   flex: 1;
 }
 
-/* Mobile: stack vertically */
+.about-photo img {
+  width: 240px;          /* ← change this to control size */
+  max-width: 100%;
+  border-radius: 10px;    /* subtle soft corners */
+}
+
+/* Mobile: stack vertically with photo on top */
 @media (max-width: 768px) {
   .about-container {
     flex-direction: column;
   }
 
+  .about-photo {
+    order: -1;           /* photo appears first on mobile */
+  }
+
   .about-photo img {
-    width: 160px;
+    width: 170px;
   }
 }
 
