@@ -112,11 +112,11 @@ hr {
   margin: 20px 0;
   border-radius: 8px;
   
-  background: #000;
+  background: red;
   min-height: 180px;
 }
 
-.dark .project video {
+body.dark .project video {
   background: red;
 }
 
