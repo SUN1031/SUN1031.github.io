@@ -9,11 +9,11 @@ title: About
 
   <div class="about-text">
 
-Hello, I'm **Choi Byeongseon**.
-I build a robots and try to teach them how to interact with the world.
+<p>Hello, I'm <strong>Choi Byeongseon</strong>.<br>
+I build a robots and try to teach them how to interact with the world.</p>
 
-I think of myself as **a man leaning on a raft on the vast ocean**-
-standing on something I built, surrounded by possibilties I can't fully see yet.
+<p>I think of myself as <strong>a man leaning on a raft on the vast ocean</strong>-<br>
+standing on something I built, surrounded by possibilties I can't fully see yet.</p>
 
 I came to robotics because I enjoy watching code cross into the physical world-
 the moment a machine I programmed begins to move, see, and act on its own.
