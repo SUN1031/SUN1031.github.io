@@ -3,26 +3,41 @@ layout: default
 title: Home
 ---
 
-# Welcome
+# Welcome to Bezalel's Craft
 
-This website is a space where my projects, studies, and ideas come together.  
-It reflects my journey as a robotics engineer—learning through experimentation, solving problems with curiosity, and turning concepts into real systems.
+Bezalel's Craft is a story about **engineering**.
 
-### Why “Bezalel’s Craft”?
+Before it is about any particular technology, it is about a simple human act:
+seeing something that does not yet exist and deciding to build it anyway.
 
-The name of this website is inspired by the Biblical craftsman **Bezalel**.  
-He was a builder who transformed ideas into tangible work, and that spirit resonates with how I approach engineering.
+Engineering can be understood as a form of craftsmanship.
+It begins with questions, passes through drawings and calculations,
+and finally reaches the stubborn reality of materials and motion.
+Every design is a conversation between idea and world.
 
-I see technology as a form of craftsmanship: understanding materials, tools, and principles, then shaping them into something meaningful. Each project is an opportunity to learn, refine, and create with intention.
+This website is the record of that conversation—
+projects shaped by curiosity, mistakes, and persistence.
+
+### Why the Name?
+
+**Bezalel** is a biblical figure known as a craftsman and builder.  
+His name is used here to represent the figure of the maker—  
+someone who transforms imagination into structure through patience and skill.
+
+It stands for an attitude:  
+listening to materials, respecting constraints,  
+and still trying to create something a little better than before.
+
+Bezalel’s Craft is the space where that attitude lives.
 
 ### What You’ll Find Here
 
-- Explorations in robotics, control, and intelligent systems  
-- Projects developed during my studies and personal research  
-- Reflections on problem-solving and design  
-- Ongoing experiments and ideas
+- Explorations of how ideas become working systems
+- Projects built through study and trial  
+- Reflections on design, failure, and improvement  
+- Ongoing experiments that are still under construction
 
-This site is a living workshop—an evolving record of what I build and what I continue to learn.
+This site is a living workshop—always learning, never finished.
 
 ---
 
