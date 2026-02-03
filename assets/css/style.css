@@ -271,35 +271,29 @@ main strong {
 }
 
 /* ---------- RaspberryPi ---------- */
-.video-stack {
-  margin: 20px 0 40px;
+.video-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  margin: 16px 0;
 }
 
-.video-item {
-  margin-bottom: 12px;
+@media (max-width: 700px) {
+  .video-row {
+    grid-template-columns: 1fr;
+  }
 }
 
 .play-both {
-  margin-top: 6px;
+  margin: 8px 0 32px;
   padding: 6px 12px;
   border: 1px solid #0b5fff;
   background: none;
   border-radius: 6px;
   cursor: pointer;
-}
+}  
 
-.play-both:hover {
-  background: #0b5fff;
-  color: white;
-}
-
-/* Optional Dark-Mode Match */
 .dark .play-both {
   border-color: #8ab4ff;
   color: #8ab4ff;
-}
-
-.dark .play-both:hover {
-  background: #8ab4ff;
-  color: #1e1e1e;
 }
