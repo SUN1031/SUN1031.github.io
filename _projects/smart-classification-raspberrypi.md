@@ -89,6 +89,10 @@ Each brick passes under the camera in a top-view configuration while moving on t
 
 ### Color-Based Sorting
 
+<button class="play-both" onclick="toggleColorPair()" id="colorBtn">
+  ▶ Play Both
+</button>
+
 <div class="video-row">
 
   <div>
@@ -107,13 +111,13 @@ Each brick passes under the camera in a top-view configuration while moving on t
 
 </div>
 
-<button class="play-both" onclick="toggleColorPair()" id="colorBtn">
-  ▶ Play Both
-</button>
-
 ---
 
 ### Size-Based Sorting
+
+<button class="play-both" onclick="toggleSizePair()" id="sizeBtn">
+  ▶ Play Both
+</button>
 
 <div class="video-row">
 
@@ -132,10 +136,6 @@ Each brick passes under the camera in a top-view configuration while moving on t
   </div>
 
 </div>
-
-<button class="play-both" onclick="toggleSizePair()" id="sizeBtn">
-  ▶ Play Both
-</button>
 
 ---
 
