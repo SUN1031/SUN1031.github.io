@@ -13,8 +13,7 @@ It reflects my journey as a robotics engineer—learning through experimentation
 The name of this website is inspired by the Biblical craftsman **Bezalel**.  
 He was a builder who transformed ideas into tangible work, and that spirit resonates with how I approach engineering.
 
-I see technology as a form of craftsmanship: understanding materials, tools, and principles, then shaping them into something meaningful.  
-Each project is an opportunity to learn, refine, and create with intention.
+I see technology as a form of craftsmanship: understanding materials, tools, and principles, then shaping them into something meaningful. Each project is an opportunity to learn, refine, and create with intention.
 
 ### What You’ll Find Here
 
