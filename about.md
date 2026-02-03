@@ -10,12 +10,12 @@ title: About
   <div class="about-text">
 
 <p>Hello, I'm <strong>Choi Byeongseon</strong>.<br>
-I build a robots and try to teach them how to interact with the world.</p>
+I build robots and try to teach them how to interact with the world.</p>
 
-<p>I think of myself as <strong>a man leaning on a raft on the vast ocean</strong>-<br>
-standing on something I built, surrounded by possibilties I can't fully see yet.</p>
+<p>I think of myself as <strong>a man leaning on a raft on the vast ocean</strong>—<br>
+standing on something I built, surrounded by possibilities I can't fully see yet.</p>
 
-<p>I came to robotics because I enjoy watching code cross into the physical world-<br>
+<p>I came to robotics because I enjoy watching code cross into the physical world—<br>
 the moment a machine I programmed begins to move, see, and act on its own.<br>
 That moment still feels a little like magic, even after many lines of debugging.</p>
 
@@ -30,7 +30,7 @@ That moment still feels a little like magic, even after many lines of debugging.
 ### What drives me
 
 Among all parts of robotics, **vision** fascinates me the most.
-To give a machine eyes is to give it a relationship with reality-
+To give a machine eyes is to give it a relationship with reality—
 light, depth, noise, and uncertainty becoming information instead of obstacles.
 
 I enjoy the entire path from idea to movement:
