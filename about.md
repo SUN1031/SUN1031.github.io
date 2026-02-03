@@ -7,10 +7,6 @@ title: About
 
 <div class="about-container">
 
-  <div class="about-photo">
-    <img src="/assets/images/me.jpg" alt="Choi Byeongseon">
-  </div>
-
   <div class="about-text">
 
 Hello, I'm **Choi Byeongseon**.
@@ -24,6 +20,11 @@ the moment a machine I programmed begins to move, see, and act on its own.
 That moment still feels a little like magic, even after many lines of debugging.
 
   </div>
+
+  <div class="about-photo">
+    <img src="/assets/images/me.jpg" alt="Choi Byeongseon">
+  </div>
+
 </div>
 
 ### What drives me
