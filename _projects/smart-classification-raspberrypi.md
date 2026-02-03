@@ -3,7 +3,7 @@ layout: project
 title: Smart Brick Classification System with Raspberry Pi
 tags: [Computer Vision, Embedded AI, Raspberry Pi, TFLite, Automation]
 featured: true
-thumbanil: /asset/images/raspberrypi/system-overview.jpg
+thumbanil: /assets/images/raspberrypi/system-overview.jpg
 summary: Real-time classification and automated sorting of toy bricks by color and size using Raspberry Pi, CNN inference, and servo-actuated conveyor system.
 ---
 
@@ -11,6 +11,19 @@ summary: Real-time classification and automated sorting of toy bricks by color a
 This project presents a smart classification system that automatically sorts **toy bricks** according to their **color and size**. The system integrates a conveyor belt, camera module, and servo motors to form a complete perception–decision–action pipeline controlled by a Raspberry Pi.
 
 Because Raspberry Pi does not provide sufficient memory and computational power for deep learning training, the neural network was trained in **Google Colab**, while only the optimized model was deployed on the Raspberry Pi using **TensorFlow Lite** for real-time inference.
+
+---
+
+## System Overview
+
+![Smart brick classification system](/assets/images/raspberrypi/system-overview.jpg)
+
+The complete platform consits of:
+- **Conveyor belt** transporting bricks at constant speed
+- **Camera module** capturing top-view images
+- **Two servo motors** acting as sorting gates
+- **Collection bins** for separated bricks
+- **Breadboard and power circuit** for electronics interfacing
 
 ---
 
@@ -24,19 +37,6 @@ The system classifies bricks into **9 categories**, defined by:
 - **3 sizes:** large, medium, small
 
 Each brick passes under the camera in a top-view configuration while moving on the conveyor belt. The Raspberry Pi analyzes the captured image and determines the brick category before activating the sorting mechanism.
-
----
-
-## System Overview
-
-![Smart brick classification system](/asset/images/raspberrypi/system-overview.jpg)
-
-The complete platform consits of:
-- **Conveyor belt** transporting bricks at constant speed
-- **Camera module** capturing top-view images
-- **Two servo motors** acting as sorting gates
-- **Collection bins** for separated bricks
-- **Breadboard and power circuit** for electronics interfacing
 
 ---
 
@@ -89,38 +89,50 @@ The complete platform consits of:
 
 ### Color-Based Sorting
 
-<div class="video-row">
-  <div>
+<div class="video-stack">
+  
+  <div class="video-item">
+    <strong>GUI Output</strong>
+    <video id="colorGui" controls width="100%">
+      <source src="/assets/videos/raspberrypi/color_gui.mp4" type="video/mp4">
+    </video>
+  </div>
+
+  <div class="video-item">
     <strong>Conveyor Belt</strong>
-    <video controls width="100%">
+    <video id="colorConv" controls width="100%">
       <source src="/assets/videos/raspberrypi/color_conveyor.mp4" type="video/mp4">
     </video>
   </div>
 
-  <div>
-    <strong>GUI Output</strong>
-    <video controls width="100%">
-      <source src="/assets/videos/raspberrypi/color_gui.mp4" type="video/mp4">
-    </video>
-  </div>
+  <button class="play-both" onClick="playColorPair()">
+    ▶ Play Both Videos
 </div>
+
+---
 
 ### Size-Based Sorting
   
-<div class="video-row">
-  <div>
-    <strong>Conveyor Belt</strong>
-    <video controls width="100%">
-      <source src="/assets/videos/raspberrypi/size_conveyor.mp4" type="video/mp4">
+<div class="video-stack">
+
+  <div class="video-item">
+    <strong>GUI Output</strong>
+    <video id="sizeGui" controls width="100%">
+      <source src="/assets/videos/brick/size_gui.mp4" type="video/mp4">
     </video>
   </div>
 
-  <div>
-    <strong>GUI Output</strong>
-    <video controls width="100%">
-      <source src="/assets/videos/raspberrypi/size_gui.mp4" type="video/mp4">
+  <div class="video-item">
+    <strong>Conveyor Belt</strong>
+    <video id="sizeConv" controls width="100%">
+      <source src="/assets/videos/brick/size_conveyor.mp4" type="video/mp4">
     </video>
   </div>
+
+  <button class="play-both" onclick="playSizePair()">
+    ▶ Play Both Videos
+  </button>
+
 </div>
 
 ---
