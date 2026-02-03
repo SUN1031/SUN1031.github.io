@@ -106,24 +106,5 @@
   }
   </script>
 
-  <script>
-  function showView(group, mode) {
-    const container = document.getElementById(group + "-container");
-    const items = container.querySelectorAll(".video-item");
-  
-    items.forEach(item => {
-      const type = item.getAttribute("data-type");
-  
-      if (mode === "both") {
-        item.style.display = "block";
-      } else if (type === mode) {
-        item.style.display = "block";
-      } else {
-        item.style.display = "none";
-      }
-    });
-  }
-  </script>
-
 </body>
 </html>
