@@ -87,28 +87,25 @@ Each brick passes under the camera in a top-view configuration while moving on t
 
 ## Demonstration Videos
 
+*Note: Simultaneous playback is recommended on desktop.  
+On mobile devices, the videos may need to be viewed individually.*
+
 ### Color-Based Sorting
 
 <button class="play-both" onclick="toggleColorPair()" id="colorBtn">
-  ▶ Play Both
+  ▶ Play Both (PC only)
 </button>
 
-<div class="mobile-view-toggle">
-  <button onclick="showView('color', 'gui')">GUI</button>
-  <button onclick="showView('color', 'conv')">Conveyor</button>
-  <button onclick="showView('color', 'both')">Both</button>
-</div>
+<div class="video-row">
 
-<div class="video-row" id="color-container>
-
-  <div class="video-item" data-type="conv">
+  <div>
     <strong>Conveyor Belt</strong>
     <video id="colorConv" controls width="100%">
       <source src="/assets/videos/raspberrypi/color_conveyor.mp4" type="video/mp4">
     </video>
   </div>
 
-  <div class="video-item" data-type="gui">
+  <div>
     <strong>GUI Output</strong>
     <video id="colorGui" controls width="100%">
       <source src="/assets/videos/raspberrypi/color_gui.mp4" type="video/mp4">
@@ -122,25 +119,19 @@ Each brick passes under the camera in a top-view configuration while moving on t
 ### Size-Based Sorting
 
 <button class="play-both" onclick="toggleSizePair()" id="sizeBtn">
-  ▶ Play Both
+  ▶ Play Both (PC only)
 </button>
 
-<div class="mobile-view-toggle">
-  <button onclick="showView('size', 'gui')">GUI</button>
-  <button onclick="showView('size', 'conv')">Conveyor</button>
-  <button onclick="showView('size', 'both')">Both</button>
-</div>
+<div class="video-row">
 
-<div class="video-row" id="size-container>
-
-  <div class="video-item" data-type="conv">
+  <div>
     <strong>Conveyor Belt</strong>
     <video id="sizeConv" controls width="100%">
       <source src="/assets/videos/raspberrypi/size_conveyor.mp4" type="video/mp4">
     </video>
   </div>
 
-  <div class="video-item" data-type="gui">
+  <div>
     <strong>GUI Output</strong>
     <video id="sizeGui" controls width="100%">
       <source src="/assets/videos/raspberrypi/size_gui.mp4" type="video/mp4">
