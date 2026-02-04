@@ -22,7 +22,7 @@ projects shaped by curiosity, mistakes, and persistence.
 
 **Bezalel** is a biblical figure known as a **craftsman and builder**.  
 His name is used here to represent the figure of the maker—  
-someone who transforms imagination into structure through patience and skill.
+someone who transforms **imagination into structure** through patience and skill.
 
 It stands for an attitude:  
 listening to materials, respecting constraints,  
