@@ -27,5 +27,3 @@ Studying perception systems and real-time inference.
 
 ### ⚙️ Embedded Systems & Edge AI
 Exploring efficient computation on constrained hardware.
-
-👉 [Read my notes](/studying/embedded/)
