@@ -6,7 +6,7 @@ permalink: /studying/
 
 ## Currently Studying
 
-Engineering is a continuous dialogue between theory and reality.
+Engineering is a continuous dialogue between theory and reality.  
 Below are the areas I am actively exploring.
 
 ---
