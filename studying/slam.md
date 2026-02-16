@@ -1,29 +1,15 @@
 ---
 layout: default
-title: SLAM & Navigation
+title: SLAM
 permalink: /studying/slam/
 ---
 
-# SLAM & Autonomous Navigation
+# SLAM Notes
 
-This page documents what I am learning about localization,
-mapping, and autonomous navigation.
-
----
-
-## Current Focus
-- Graph-based SLAM
-- Loop closure detection
-- ROS2 Nav2 stack
-
----
-
-## Notes
-
-### Week 1 — Particle Filters
-Observations:
-- Sensitive to sensor noise
-- Requires careful tuning of motion model
-
-Questions:
-- How to improve robustness in sparse environments?
+{% raw %}
+{% for note in site.studying %}
+  {% if note.topic == "slam" %}
+    - [{{ note.title }}]({{ note.url }})
+  {% endif %}
+{% endfor %}
+{% endraw %}
