@@ -153,5 +153,5 @@ Each brick passes under the camera in a top-view configuration while moving on t
 
 ## Acknowledgment
 
-This project was supported by **Robodyne Systems Co., Ltd.**, which provided hardware compents and manufacturing support.
+This project was supported by **Robodyne Systems Co., Ltd.**, which provided hardware components and manufacturing support.
 
