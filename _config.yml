@@ -5,3 +5,8 @@ collections:
   projects:
     output: true
     permalink: /projects/:name/
+
+collections:
+  studying:
+    output: true
+    permalink: /studying/:path/
