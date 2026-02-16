@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Currently Studying
+title: Studying
 permalink: /studying/
 ---
 
