@@ -26,7 +26,17 @@ pure learning-based approaches.
 
 ## Notes
 
-### Camera Model
-A 3D point X projects to image point x through:
+## Camera Projection Model
 
+A 3D point projects onto the image plane as:
+
+$$
 x = K [R | t] X
+$$
+
+where:
+
+- $K$ — intrinsic matrix
+- $R$ — rotation
+- $t$ — translation
+
