@@ -6,10 +6,12 @@ permalink: /studying/computer-vision/
 
 # Computer Vision Notes
 
-{% raw %}
+<ul>
 {% for note in site.studying %}
   {% if note.topic == "computer-vision" %}
-    - [{{ note.title }}]({{ note.url }})
+    <li>
+      <a href="{{ note.url }}">{{ note.title }}</a>
+    </li>
   {% endif %}
 {% endfor %}
-{% endraw %}
+</ul>
