@@ -30,9 +30,9 @@ pure learning-based approaches.
 
 A 3D point projects onto the image plane as:
 
-$$
-x = K [R | t] X
-$$
+\begin{equation}
+x = K[R|t]X
+\end{equation}
 
 where:
 
