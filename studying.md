@@ -7,38 +7,25 @@ permalink: /studying/
 ## Currently Studying
 
 Engineering is a continuous dialogue between theory and reality.
-Here are the areas I am actively exploring and refining.
+Below are the areas I am actively exploring.
 
 ---
 
 ### 🤖 SLAM & Autonomous Navigation
-Studying localization methods and mapping robustness for mobile robots.
+Learning localization, mapping, and robustness in mobile robots.
 
-Topics:
-- Graph-based SLAM
-- Sensor fusion
-- ROS2 Navigation Stack
-
-Goal:
-Improve reliability of autonomous navigation in dynamic environments.
+👉 [Read my notes →](/studying/slam/)
 
 ---
 
-### 👁️ Embedded Computer Vision
-Exploring efficient perception systems on resource-limited hardware.
+### 👁️ Computer Vision for Robotics
+Studying perception systems and real-time inference.
 
-Topics:
-- CNN optimization
-- Edge AI deployment
-- Real-time inference pipelines
-
-Goal:
-Enable intelligent perception on embedded robotic platforms.
+👉 [Read my notes →](/studying/computer-vision/)
 
 ---
 
-### 📖 Current Reading
-- *Probabilistic Robotics*
-- *Multi View Geometry in Computer Vision*
-- ROS2 documentation
-- Recent SLAM research papers
+### ⚙️ Embedded Systems & Edge AI
+Exploring efficient computation on constrained hardware.
+
+👉 [Read my notes →](/studying/embedded/)
