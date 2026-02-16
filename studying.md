@@ -39,5 +39,6 @@ Enable intelligent perception on embedded robotic platforms.
 
 ### 📖 Current Reading
 - *Probabilistic Robotics*
+- *Multi View Geometry in Computer Vision*
 - ROS2 documentation
 - Recent SLAM research papers
