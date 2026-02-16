@@ -4,11 +4,12 @@ title: Computer Vision
 permalink: /studying/computer-vision/
 ---
 
-# Computer Vision for Robotics
+# Computer Vision Notes
 
-Exploring perception systems for autonomous robots.
-
-## Topics
-- CNN optimization
-- Object detection
-- Edge deployment
+{% raw %}
+{% for note in site.studying %}
+  {% if note.topic == "computer-vision" %}
+    - [{{ note.title }}]({{ note.url }})
+  {% endif %}
+{% endfor %}
+{% endraw %}
