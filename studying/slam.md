@@ -1,15 +1,17 @@
 ---
 layout: default
-title: SLAM
+title: SLAM Notes
 permalink: /studying/slam/
 ---
 
 # SLAM Notes
 
-{% raw %}
+<ul>
 {% for note in site.studying %}
   {% if note.topic == "slam" %}
-    - [{{ note.title }}]({{ note.url }})
+    <li>
+      <a href="{{ note.url }}">{{ note.title }}</a>
+    </li>
   {% endif %}
 {% endfor %}
-{% endraw %}
+</ul>
