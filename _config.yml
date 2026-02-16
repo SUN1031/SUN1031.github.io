@@ -9,4 +9,4 @@ collections:
 collections:
   studying:
     output: true
-    permalink: /studying/:path/
+    permalink: /studying/:name/
