@@ -24,8 +24,6 @@ pure learning-based approaches.
 
 ---
 
-## Notes
-
 ## Camera Projection Model
 
 A 3D point projects onto the image plane as:
