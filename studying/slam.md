@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SLAM Notes
+title: SLAM
 permalink: /studying/slam/
 ---
 
