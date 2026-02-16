@@ -4,7 +4,7 @@ title: Computer Vision
 permalink: /studying/computer-vision/
 ---
 
-# Computer Vision Notes
+## Computer Vision Notes
 
 <ul>
 {% for note in site.studying %}
