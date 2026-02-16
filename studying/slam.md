@@ -4,7 +4,7 @@ title: SLAM
 permalink: /studying/slam/
 ---
 
-# SLAM Notes
+## SLAM Notes
 
 <ul>
 {% for note in site.studying %}
