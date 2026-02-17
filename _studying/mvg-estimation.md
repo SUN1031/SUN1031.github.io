@@ -9,8 +9,7 @@ date: 2026-02-17
 
 # Estimation
 
-## Source
-Hartley & Zisserman, Chapter 4
+Note from Hartley & Zisserman, Chapter 4
 
 ---
 
