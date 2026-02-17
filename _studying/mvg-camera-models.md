@@ -8,7 +8,7 @@ date: 2026-02-17
 # Camera Models
 
 Hartley & Zisserman — *Multiple View Geometry in Computer Vision*  
-Chapter 6: Camera Models
+Chapter 6
 
 ---
 
