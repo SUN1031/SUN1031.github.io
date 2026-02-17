@@ -7,6 +7,8 @@ parent: multiple-view-geometry
 date: 2026-02-17
 ---
 
+# Estimation
+
 ## Source
 Hartley & Zisserman, Chapter 4
 
