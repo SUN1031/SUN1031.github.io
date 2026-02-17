@@ -21,11 +21,8 @@ foundation of visual SLAM and 3D reconstruction.
 ## Contents
 
 <ul>
-{% for note in site.studying %}
-  {% if note.parent == "multiple-view-geometry" %}
-    <li>
-      <a href="{{ note.url }}">{{ note.title }}</a>
-    </li>
-  {% endif %}
-{% endfor %}
+{% raw %}{% for note in site.studying %}
+  <li>{{ note.title }}</li>
+{% endfor %}{% endraw %}
 </ul>
+
