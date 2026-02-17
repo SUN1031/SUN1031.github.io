@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Projective Geometry and Transformations
