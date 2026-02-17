@@ -1,8 +1,6 @@
 ---
 layout: default
 title: 3D Reconstruction of Cameras and Structure
-topic: computer-vision
-subtopic: multiple-view-geometry
 parent: multiple-view-geometry
 date: 2026-02-17
 ---
