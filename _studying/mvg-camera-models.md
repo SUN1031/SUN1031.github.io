@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Camera Models
-topic: computer-vision
-subtopic: multiple-view-geometry
 parent: multiple-view-geometry
 date: 2026-02-17
 ---
