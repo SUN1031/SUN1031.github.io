@@ -20,13 +20,17 @@ foundation of visual SLAM and 3D reconstruction.
 
 ## Contents
 
-<ul>
-{% for note in site.studying %}
-  {% if note.parent == "multiple-view-geometry" %}
-    <li>
-      <a href="{{ note.url }}">{{ note.title }}</a>
-    </li>
-  {% endif %}
-{% endfor %}
-</ul>
+### PART 0 : Background
+- [Projective Geometry and Transformations](/studying/mvg-projective-geometry/)
+- [Estimation](/studying/mvg-estimation/)
 
+### PART 1 : Single View Geometry
+- [Camera Models](/studying/mvg-camera-models/)
+- [Computation of the Camera Matrix P](/studying/mvg-camera-matrix/)
+
+### PART 2 : Two-View Geometry
+- [Epipolar Geometry and the Fundamental Matrix](/studying/mvg-epipolar-geometry/)
+- [3D Reconstruction of Cameras and Structure](/studying/mvg-3d-reconstruction/)
+- [Computation of the Fundamental Matrix F](/studying/mvg-fundamental-matrix/)
+- [Structure Computation](/studying/mvg-structure/)
+- [Scene Planes and Homographies](/studying/mvg-homographies/)
