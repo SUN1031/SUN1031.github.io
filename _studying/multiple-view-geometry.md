@@ -22,7 +22,11 @@ foundation of visual SLAM and 3D reconstruction.
 
 <ul>
 {% for note in site.studying %}
-  <li>{{ note.title }}</li>
+  {% if note.parent == "multiple-view-geometry" %}
+    <li>
+      <a href="{{ note.url }}">{{ note.title }}</a>
+    </li>
+  {% endif %}
 {% endfor %}
 </ul>
 
