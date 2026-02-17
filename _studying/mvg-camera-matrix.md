@@ -8,7 +8,7 @@ date: 2026-02-17
 # Computation of the Camera Matrix P
 
 Hartley & Zisserman — *Multiple View Geometry in Computer Vision*  
-Chapter 7: Computation of the Camera Matrix P
+Chapter 7
 
 ---
 
