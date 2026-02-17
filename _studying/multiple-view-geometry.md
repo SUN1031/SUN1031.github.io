@@ -21,8 +21,8 @@ foundation of visual SLAM and 3D reconstruction.
 ## Contents
 
 <ul>
-{% raw %}{% for note in site.studying %}
+{% for note in site.studying %}
   <li>{{ note.title }}</li>
-{% endfor %}{% endraw %}
+{% endfor %}
 </ul>
 
