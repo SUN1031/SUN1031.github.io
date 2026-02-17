@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Computation of the Camera Matrix P
-topic: computer-vision
-subtopic: multiple-view-geometry
 parent: multiple-view-geometry
 date: 2026-02-17
 ---
