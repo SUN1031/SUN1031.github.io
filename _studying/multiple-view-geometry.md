@@ -32,5 +32,5 @@ foundation of visual SLAM and 3D reconstruction.
 - [Epipolar Geometry and the Fundamental Matrix](/studying/mvg-epipolar-geometry/)
 - [3D Reconstruction of Cameras and Structure](/studying/mvg-3d-reconstruction/)
 - [Computation of the Fundamental Matrix F](/studying/mvg-fundamental-matrix/)
-- [Structure Computation](/studying/mvg-structure/)
+- [Structure Computation](/studying/mvg-structure-computation/)
 - [Scene Planes and Homographies](/studying/mvg-homographies/)
