@@ -35,13 +35,10 @@ Jeonbuk National University
 
 ### Programming
 - C, Python
-
 ### Robotics
 - ROS, SLAM, Navigation
-
 ### Control & Math
 - PID, Kalman filtering, Trajectory planning
-
 ### Tools
 - Linux, Git, OpenCV, PyTorch
 
@@ -52,10 +49,7 @@ Jeonbuk National University
 - Robot manipulation and motion planning
 - SLAM and localization
 - Control systems design
-
----
-
-## Experience
+- Medical Robotics
 
 ---
 
