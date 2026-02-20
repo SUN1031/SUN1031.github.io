@@ -209,7 +209,7 @@ Human interaction directly influences navigation behavior in real time.
 
 ---
 
-## Experimental Evaluation
+## Results
 
 ![Robot](/assets/images/navigation/robot.jpg)
 
@@ -245,15 +245,6 @@ The robot maintained consistent user-following behavior and safely adjusted moti
 - Proposed the **Smart Handle**, a novel physical human–robot interaction interface
 - Integrated machine learning into real-time motion control
 - Demonstrated human-centered adaptive robot behavior
-
----
-
-## Lessons Learned
-
-- Human interaction must be integrated into control design from the beginning.
-- Physical interfaces can outperform traditional digital interfaces.
-- Real-world robotics challenges are dominated by system integration.
-- Reliable autonomy emerges from hardware–software co-design.
 
 ---
 
