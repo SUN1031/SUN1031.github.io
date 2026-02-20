@@ -14,8 +14,6 @@ title: Resume
 
 ---
 
-# Choi Byeongseon
-
 ## Education
 
 **M.Sc. in Robotics**
