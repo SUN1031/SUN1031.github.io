@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome to Bezalelcraft
+# Welcome to BezalelCraft
 
 Bezalelcraft is a story about **engineering**.
 
