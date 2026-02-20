@@ -67,7 +67,7 @@ Jeonbuk National University
 
 ---
 
-### Domestic Conference Papers (papers written in Korean)
+### Domestic Conference Papers (written in Korean)
 
 1. **Byeongseon Choi** and Jaebyung Park.  
    "Depth Camera-Based Calf Recognition Algorithm for Automated Diagnosis of Chronic Venous Insufficiency."  
