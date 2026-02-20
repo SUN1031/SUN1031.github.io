@@ -44,7 +44,7 @@ Jeonbuk National University
 
 ---
 
-## Academic Projects
+## Research Experience
 - Autonomous mobile robot navigation
 - Robot manipulation and motion planning
 - SLAM and localization
