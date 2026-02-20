@@ -14,6 +14,8 @@ title: Resume
 
 ---
 
+# Choi Byeongseon
+
 ## Education
 
 **M.Sc. in Robotics**
@@ -28,19 +30,6 @@ Jeonbuk National University
 Jeonbuk National University
 
 - Capston Design: Smart Wildlife Deterrent System (Gold Prize)
-
----
-
-## Technical Skills
-
-### Programming
-- C, Python
-### Robotics
-- ROS, SLAM, Navigation
-### Control & Math
-- PID, Kalman filtering, Trajectory planning
-### Tools
-- Linux, Git, OpenCV, PyTorch
 
 ---
 
@@ -99,3 +88,15 @@ Jeonbuk National University
    "Machine Learning Based Smart Classification System Using Raspberry Pi."  
    *Conference of the Institute of Control, Robotics, and Systems (ICROS 2022)*, 2022.  
 
+---
+
+## Technical Skills
+
+### Programming
+- C, Python
+### Robotics
+- ROS, SLAM, Navigation
+### Control & Math
+- PID, Kalman filtering, Trajectory planning
+### Tools
+- Linux, Git, OpenCV, PyTorch
