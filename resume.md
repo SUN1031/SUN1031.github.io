@@ -93,10 +93,15 @@ Jeonbuk National University
 ## Technical Skills
 
 ### Programming
-- C, Python
+- C, Python  
+
 ### Robotics
-- ROS, SLAM, Navigation
+- ROS, SLAM, Navigation  
+  
 ### Control & Math
-- PID, Kalman filtering, Trajectory planning
+- PID, Kalman filtering, Trajectory planning  
+
 ### Tools
-- Linux, Git, OpenCV, PyTorch
+- Linux, Git, OpenCV, PyTorch  
+
+
