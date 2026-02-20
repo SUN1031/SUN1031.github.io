@@ -66,7 +66,7 @@ Jeonbuk National University
 1. **Byeongseon Choi** and Jaebyung Park.
    "Development of Hospital Guide Robot with Stable Mobility and Improved Human-Robot Interaction."
    *Journal of Institute of Control, Robotics and Systems*, 29(11):921-927, 2023.
-   https://doi.org/10.5302/J.ICROS.2023.22.8013.
+   https://doi.org/10.5302/J.ICROS.2023.22.8013. (in Korean)
 
 ---
 
@@ -87,7 +87,7 @@ Jeonbuk National University
 
 ---
 
-### Domestic Conference Papers
+### Domestic Conference Papers (papers written in Korean)
 
 1. **Byeongseon Choi** and Jaebyung Park.
    "Depth Camera-Based Calf Recognition Algorithm for Automated Diagnosis of Chronic Venous Insufficiency."
