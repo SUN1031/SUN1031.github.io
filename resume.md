@@ -63,10 +63,10 @@ Jeonbuk National University
 
 ### Journal Articles
 
-1. **Byeongseon Choi** and Jaebyung Park. 
-   "Development of Hospital Guide Robot with Stable Mobility and Improved Human-Robot Interaction." 
+1. **Byeongseon Choi** and Jaebyung Park.  
+   "Development of Hospital Guide Robot with Stable Mobility and Improved Human-Robot Interaction."  
    *Journal of Institute of Control, Robotics and Systems*, 29(11):921-927, 2023.
-   https://doi.org/10.5302/J.ICROS.2023.22.8013. (in Korean) 
+   https://doi.org/10.5302/J.ICROS.2023.22.8013. (in Korean)  
 
 ---
 
