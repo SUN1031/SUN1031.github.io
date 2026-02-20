@@ -23,13 +23,20 @@ Jeonbuk National University
 - Master's thesis: *Development of Automated System for Diagnosing Chronic Venous Insufficiency using Artificial Intelligence-Based Robot*
 - Focus areas: mobile robotics, control, perception
 
+
+**B.Sc. in Electronic Engineering**
+*February 2022*
+Jeonbuk National University
+
+- Capsteon Design: Smart Wildlife Deterrent System (Gold Prize)
+
 ---
 
 ## Technical Skills
 
 ### Programming
 - Python
-- C/C++
+- C
 
 ### Robotics
 - ROS
@@ -37,18 +44,15 @@ Jeonbuk National University
 - MoveIt
 - SLAM
 - Navigation
-- URDF / TF
 
 ### Control & Math
 - PID
-- State-space control
 - Kalman filtering
 - Trajectory planning
 
 ### Tools
 - Linux
 - Git
-- Docker
 - OpenCV
 - PyTorch
 
@@ -63,9 +67,8 @@ Jeonbuk National University
 ---
 
 ## Experience
-*(Add internships, research assistant work, or leave empty for now.)*
 
 ---
 
 ## Publications
-*(Optional - can be added later.)*
+
