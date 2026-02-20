@@ -1,16 +1,17 @@
 ---
 layout: project
 title: Human-Guiding Autonomous Mobile Robot
-subtitle: Development of a Human-Centered Mobile Robotics Platform with Physical Interaction
 tags: [ROS, SLAM, Navigation, Gazebo]
 featured: true
 thumbnail: /assets/images/navigation/thumbnail.png
 summary: Autonomous navigation using LiDAR-based SLAM and ROS.
 ---
 
-## Overview
+## Development of a Human-Centered Mobile Robotics Platform with Physical Interaction
 
-![Robot](/assets/images/navigation/robot.jpg)
+---
+
+## Overview
 
 Autonomous mobile robots are increasingly deployed in shared human environments such as public facilities, transportation hubs, and service spaces. While navigation and localization technologies have advanced significantly, guiding humans safely and comfortably remains a challenging problem.
 
@@ -214,6 +215,8 @@ Human interaction directly influences navigation behavior in real time.
 
 ## Experimental Evaluation
 
+![Robot](/assets/images/navigation/robot.jpg)
+
 ### Mobility Performance
 
 - Stable indoor navigation achieved
@@ -267,5 +270,3 @@ The robot maintained consistent user-following behavior and safely adjusted moti
 - Neural Networks
 - Embedded Linux
 - Mobile Robotics Hardware Design
-
----
