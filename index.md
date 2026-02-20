@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Welcome to Bezalel’s Craft
+# Welcome to BezalelCraft
 
-Bezalel’s Craft is a story about **engineering**.
+BezalelCraft is a story about **engineering**.
 
 Before it is about any particular technology, it is about a simple human act:  
 seeing something that does not yet exist and deciding to build it anyway.
