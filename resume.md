@@ -21,7 +21,6 @@ title: Resume
 Jeonbuk National University
 
 - Master's thesis: *Development of Automated System for Diagnosing Chronic Venous Insufficiency using Artificial Intelligence-Based Robot*
-- Focus areas: mobile robotics, control, perception
 
 **B.Sc. in Electronic Engineering**
 *February 2022*
