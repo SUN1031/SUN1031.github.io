@@ -1,15 +1,11 @@
 ---
 layout: project
-title: Autonomous Mobile Robot Navigation
+title: Human-Guiding Autonomous Mobile Robot
+subtitle: Development of a Human-Centered Mobile Robotics Platform with Physical Interaction
 tags: [ROS, SLAM, Navigation, Gazebo]
 featured: true
 thumbnail: /assets/images/navigation/thumbnail.png
 summary: Autonomous navigation using LiDAR-based SLAM and ROS.
----
-
-# Human-Guiding Autonomous Mobile Robot
-### Development of a Human-Centered Mobile Robotics Platform with Physical Interaction
-
 ---
 
 ## Overview
