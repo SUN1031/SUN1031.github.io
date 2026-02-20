@@ -5,7 +5,8 @@ title: Contact
 
 # Contact
 
-If you would like to get in touch regarding research, collaboration, or job opportunities, feel free to contact me.
+If you would like to get in touch regarding research,  
+collaboration, or job opportunities, feel free to contact me.
 
 ---
 
@@ -21,11 +22,9 @@ If you would like to get in touch regarding research, collaboration, or job oppo
 
 - GitHub: https://github.com/SUN1031
 - LinkedIn:
-- Google Scholar: (optional)
 
 ---
 
 ## Location
 
 Daejeon, South Korea
-(Open to relocation / remote opportunities)
