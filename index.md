@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to BezalelCraft
 
-Bezalelcraft is a story about **engineering**.
+BezalelCraft is a story about **engineering**.
 
 Before it is about any particular technology, it is about a simple human act:  
 seeing something that does not yet exist and deciding to build it anyway.
@@ -28,7 +28,7 @@ It stands for an attitude:
 listening to materials, respecting constraints,  
 and still trying to create something a little better than before.
 
-Bezalel’s Craft is the space where that attitude lives.
+BezalelCraft is the space where that attitude lives.
 
 
 ### What You’ll Find Here
