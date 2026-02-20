@@ -14,7 +14,7 @@ Because Raspberry Pi does not provide sufficient memory and computational power 
 
 ---
 
-## System Overview
+## System
 
 ![Smart brick classification system](/assets/images/raspberrypi/system-overview.jpg)
 
